@@ -1,0 +1,11 @@
+unit,brainstorming,classification,closed_qa,creative_writing,general_qa,information_extraction,open_qa,summarization
+0_nature_science,3,18,7,4,9,8,11,5
+1_technology,6,8,6,4,5,4,4,8
+2_health_food,14,2,2,5,8,3,3,8
+3_places_travel,4,6,6,10,5,9,7,7
+4_stories_media,7,2,6,14,2,11,11,3
+5_sports_outdoors,6,3,10,4,7,7,9,5
+6_history_society,1,0,15,2,4,12,5,12
+7_business_work,5,2,4,7,5,2,5,5
+8_everyday_life,12,10,0,10,11,0,1,1
+9_music_arts,2,9,4,0,4,4,4,6

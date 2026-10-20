@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+pip_pkgs/
+model_cache/
+tmp/
+results/
+logs/
+*.part
+.pytest_cache/
+.ipynb_checkpoints/

@@ -1,0 +1,25 @@
+{
+  "description": "LLM knowledge units of the 480 rows of the FedIT-FL Shapley reference set (Dolly-15k, original release, split_seed 0, 60 rows per category). Topic (what the text is about), not task type: the native Dolly categories are a separate control axis. Rules are applied in order; the first that fits decides.",
+  "labeller": "Claude (Anthropic), in the project conversation of 2026-10-20, from the instruction plus the first ~90 characters of the context and the first ~60 characters of the response of each row (PROMPT.md)",
+  "rules": [
+    "Sports teams, athletes, games played outdoors, hiking, camping, fishing and college mascots go to sports_outdoors, even when the question is historical.",
+    "Music, musicians, painting, sculpture, theatre, dance and photography go to music_arts; novels, poetry, film, TV, comics and video games go to stories_media.",
+    "Food, cooking, drinks, diet, medicine, disease, fitness and the body go to health_food.",
+    "Countries, cities, landmarks, travel and physical geography go to places_travel; the history or politics of a place goes to history_society.",
+    "Anything about companies, products as businesses, money, jobs, careers and marketing goes to business_work.",
+    "Personal advice, household, relationships, pets, hobbies without a sport, riddles and common-sense or word puzzles go to everyday_life.",
+    "Classification and extraction tasks are labelled by the topic of their items (a list of animals is nature_science)."
+  ],
+  "units": [
+    {"unit_id": 0, "unit_name": "nature_science", "definition": "animals, plants, the natural world and natural sciences, including mathematics and astronomy"},
+    {"unit_id": 1, "unit_name": "technology", "definition": "technology, engineering, computing, software, vehicles, machines and materials"},
+    {"unit_id": 2, "unit_name": "health_food", "definition": "health, medicine, the body, food, cooking, drinks and fitness"},
+    {"unit_id": 3, "unit_name": "places_travel", "definition": "countries, cities, landmarks, geography and travel"},
+    {"unit_id": 4, "unit_name": "stories_media", "definition": "stories, books, writing, film, TV, games and other entertainment media"},
+    {"unit_id": 5, "unit_name": "sports_outdoors", "definition": "sports, athletes, teams, outdoor recreation and college mascots"},
+    {"unit_id": 6, "unit_name": "history_society", "definition": "history, politics, law, society, religion, philosophy, culture and biographies outside sports and the arts"},
+    {"unit_id": 7, "unit_name": "business_work", "definition": "business, companies, economics, money, work, careers and marketing"},
+    {"unit_id": 8, "unit_name": "everyday_life", "definition": "everyday life, personal matters, home, relationships, pets, hobbies, common-sense and word puzzles"},
+    {"unit_id": 9, "unit_name": "music_arts", "definition": "music, musicians and the visual and performing arts"}
+  ]
+}

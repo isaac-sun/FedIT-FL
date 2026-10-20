@@ -1,0 +1,494 @@
+row_id,category,unit_id,unit_name,instruction
+47,brainstorming,4,stories_media,What is the best tv series in the world
+88,brainstorming,7,business_work,Give me some ideas to manage my manager.
+95,general_qa,1,technology,Which products apple sell?
+99,open_qa,7,business_work,What is investment banking?
+123,creative_writing,0,nature_science,write a short essay on California wild fire
+127,brainstorming,8,everyday_life,What are some different things you should bring with you on a day hiking trip?
+198,general_qa,5,sports_outdoors,What types of sport fish do most anglers target in New England?
+222,brainstorming,7,business_work,What are the careers of your dream?
+235,open_qa,0,nature_science,What are Nanotube?
+265,classification,8,everyday_life,"Which of the following are colors: red, black, yellow, orange, sun, sunflower, chips, book, white, pink, blue, keyboard."
+328,brainstorming,1,technology,What are the best social media sites
+385,closed_qa,6,history_society,Where did Gretel attend primary school?
+419,brainstorming,2,health_food,Give me some tips on how to train for a marathon.
+475,brainstorming,1,technology,Explain how a mechanical watch works
+484,summarization,4,stories_media,Who is Cindy Robinson?
+491,summarization,3,places_travel,Monitor and Merrimac refer to what in the passage?
+521,general_qa,8,everyday_life,What is knitting?
+550,brainstorming,0,nature_science,What are some plastic use reduction ideas
+553,creative_writing,3,places_travel,Where should I live in Indiana?
+576,open_qa,0,nature_science,What is the difference between a paint and a pinto?
+662,creative_writing,1,technology,Write a paragraph about AI governance.
+675,closed_qa,4,stories_media,Which is the best work from Goethe?
+699,information_extraction,6,history_society,Extract all of the names of people in the below text separated by commas and ordered in alphabetical order by first name
+706,closed_qa,6,history_society,"Given this paragraph about Dartmouth College traditions, which homecoming-related traditions are illegal?"
+734,classification,9,music_arts,"Categorize these paint colours as “primary”, “secondary”, and “tertiary” according to the Quiller color wheel.
+
+Cadmium "
+767,classification,8,everyday_life,Categorize each of the following as being beneficial or not beneficial to making a home protected from burglars: alarm s
+776,classification,8,everyday_life,"tell me whether these are synonyms or antonyms of love: dislike, care, like, hate, affection, harsh"
+867,general_qa,6,history_society,What is the name of the country that still has an emperor?
+934,closed_qa,6,history_society,What are the seven wonders of the world?
+965,closed_qa,3,places_travel,What name is Beijing also known by?
+1082,open_qa,6,history_society,"Total 15 PMs served under Queen Elizabeth II, name the last PM"
+1092,general_qa,2,health_food,When should I take a medication?
+1098,creative_writing,0,nature_science,Why should people convert lawns and ornamental gardens to native plants?
+1108,brainstorming,2,health_food,8 Simple Ways to Adopt a Healthy and sustainable Eating Pattern
+1129,general_qa,4,stories_media,What was the first modern trading card game created?
+1174,classification,0,nature_science,"Tell me whether these are a solid, liquid, or gas"
+1241,brainstorming,8,everyday_life,Give me a bulleted list of 5 hobbies I should try.
+1264,open_qa,5,sports_outdoors,Why is sailing so much fun?
+1276,summarization,3,places_travel,What is Central Park?
+1280,closed_qa,1,technology,What is an adjacency list?
+1309,creative_writing,8,everyday_life,Write a friendly email to my neighbor asking them to keep the noise down after 10pm on Weekdays.
+1318,creative_writing,3,places_travel,What does your vacation rental have to offer?
+1320,classification,3,places_travel,"Classify the cities based on whether they are located in Slovakia or Croatia.
+Košice, Bratislava, Zagreb, Split, Petržal"
+1376,information_extraction,3,places_travel,Where is Meerut?
+1383,brainstorming,8,everyday_life,What are ten woodworking projects that I could complete in a weekend?
+1443,summarization,7,business_work,What is measure of inflation in the US?
+1447,creative_writing,8,everyday_life,Write a letter to my mom to convince her that I should be able to get a cat.
+1486,general_qa,1,technology,what is the difference between ARM and x86 chipsets?
+1523,general_qa,0,nature_science,What is Occam's razor?
+1547,classification,0,nature_science,Which is a species of fish? Panga or Pangea
+1578,open_qa,4,stories_media,Who spoke at NYU's 2022 commencement?
+1686,classification,2,health_food,You have to Classify each of the following as either a gluten product or a gluten free product and display it according 
+1732,summarization,7,business_work,What professions are likely to be pursued in Houston?
+1745,information_extraction,6,history_society,Extract the name of the universities Norman Alan Burges studied at from the text. List them using bullets.
+1759,information_extraction,0,nature_science,From the passage find the major production areas where Avocado is cultivated. Display the results in comma separated for
+1772,open_qa,0,nature_science,What is a group of cats called?
+1893,closed_qa,5,sports_outdoors,"Based on the information provided, what was the controversy surrounding the 2021 Abu Dhabi Grand Prix?"
+1897,closed_qa,0,nature_science,What breed is most likely to win a dog show
+1964,information_extraction,0,nature_science,Based on the following passage what are positive and conventional current?
+2015,open_qa,0,nature_science,What is solar minimum and how it is related to sun cycle?
+2017,brainstorming,5,sports_outdoors,Who are the best starting MLB pitchers of all time?
+2028,classification,8,everyday_life,"Which of the following can fly: bird, cow, cat, dog, car, helicopter, drone, bike, pot, butterfly, feather?"
+2040,closed_qa,6,history_society,What is the meaning of life?
+2064,summarization,6,history_society,"Based on the given text, please tell me which region and country a Troll Cross originated in, and what its intent is."
+2110,creative_writing,4,stories_media,Write a story about a man who finds a magic lamp that has a genie inside. The genie should grant him wishes and the stor
+2161,closed_qa,5,sports_outdoors,How many national high school records does Shana Woods currently hold based on the paragraph?
+2327,information_extraction,5,sports_outdoors,"Extract the years that Ayrton Senna da Silva won the Formula One World Championship, and put them separated by comma."
+2433,general_qa,2,health_food,What would happen if I ran barefoot? Is it good for me?
+2437,summarization,7,business_work,What's the Moroccan infrastructure ?
+2448,open_qa,5,sports_outdoors,What is a difference between baseball and cricket?
+2456,information_extraction,9,music_arts,How would you describe Dance?
+2533,summarization,8,everyday_life,What are the key components to landscaping?
+2534,creative_writing,2,health_food,Why does my chicken create so much liquid when cooked in the skillet?
+2564,summarization,0,nature_science,"Based on this text, would it be correct to say a peanut is a nut?"
+2585,information_extraction,3,places_travel,"From the article, tell me why the trail beneath the Landscape Arch has been closed."
+2615,information_extraction,4,stories_media,What is Snow White and the Seven Dwarfs?
+2641,open_qa,4,stories_media,Panchatantra stories were written by
+2667,brainstorming,4,stories_media,Give me a list of the best comedy podcast to listen to
+2731,summarization,6,history_society,"From the given paragraph, write some points on Church."
+2738,brainstorming,9,music_arts,With what opera company is the late soprano and master voice teacher Ellen Faull Gordon most associated?
+2759,information_extraction,7,business_work,From the passage identify the various products and services which are provided by HDFC Bank including the digital produc
+2824,open_qa,7,business_work,Why does a US $20 bill have a vertical strip on it when held to light?
+2850,creative_writing,7,business_work,Write a letter from the perspective of a potential home buyer to a home owner about wanting to buy the home.
+2869,creative_writing,3,places_travel,Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?
+2874,open_qa,3,places_travel,Where is Sugarloaf mountain located?
+2911,information_extraction,4,stories_media,Summarize the argument and tell me who won
+2935,summarization,1,technology,What is the meaning of the information age
+2953,creative_writing,3,places_travel,road trip to Kerala from Bangalore.
+2954,closed_qa,5,sports_outdoors,Who is known as The Invincibles in English football?
+2966,classification,8,everyday_life,"On a flight, I can only pack three of the following items: sword, book, phone, suitcase, parrot, plane. Which ones shoul"
+3049,information_extraction,0,nature_science,In the provided text multiple examples of a metric are given. Extract the third example of a metric.
+3095,classification,0,nature_science,"Identify the bird from the list: Gadwall, Worm, Centipede"
+3096,classification,9,music_arts,"Identify which instrument is string or percussion: Shime-daiko, Chilador"
+3118,classification,0,nature_science,Which is a species of fish? Tenpounder or Ninepounder
+3126,summarization,5,sports_outdoors,When was Anfield football stadium built?
+3140,closed_qa,5,sports_outdoors,What high school did Tyrone Brazelton go to?
+3188,general_qa,5,sports_outdoors,What are three things I can do to be better at tennis?
+3260,summarization,6,history_society,Can foreign nationals get an Aadhaar in India?
+3272,open_qa,0,nature_science,What are Newton’s laws of motion?
+3283,closed_qa,3,places_travel,Where is the Hawkeye Creek Bridge located
+3302,closed_qa,6,history_society,What does moha mean
+3371,open_qa,4,stories_media,Who is Gillian Anderson?
+3406,summarization,2,health_food,Give me a list of some preparations in which stracchino cheese is used/
+3414,closed_qa,0,nature_science,Who was the first couple to win the Nobel prize?
+3432,open_qa,4,stories_media,What are the words of House Lannister?
+3499,closed_qa,7,business_work,What enabled Libya to obtain rapid economic growth prior to 1990?
+3554,general_qa,2,health_food,I am thinking of going to yoga. What type of class is good for me?
+3596,creative_writing,5,sports_outdoors,Why should I cheer for the Sacramento Kings in this year's NBA playoffs?
+3653,classification,4,stories_media,"Which characters belong to DC or Marvel Universe? Jason Todd, Winter Soldier"
+3656,open_qa,9,music_arts,What is a piano?
+3778,closed_qa,5,sports_outdoors,"Given this paragraph about the tour de france, how many riders are in the tour"
+3801,information_extraction,5,sports_outdoors,Extract the top 4 teams in the Champions League of 2020-2021 season. Each row should have a team name and country of a t
+3888,summarization,5,sports_outdoors,Who was Manchester United's most successful manager?
+3991,closed_qa,0,nature_science,Can animals like dog and cat get Kidney Stones ?
+4009,brainstorming,2,health_food,List as many types of craft beer as you can
+4052,open_qa,4,stories_media,"In the series A Song of Ice and Fire, who is the founder of House Thenn?"
+4104,brainstorming,1,technology,What is the minimum feature a cell phone should have to avoid addiction
+4183,information_extraction,5,sports_outdoors,How many national championships has Nick Saban won at Alabama?
+4220,information_extraction,5,sports_outdoors,Extract the names of the four Grand Slam tournaments and list them using bullets. Include the months of the year when ea
+4225,open_qa,3,places_travel,What is Oktoberfest
+4236,general_qa,3,places_travel,Where should I go on vacation?
+4241,closed_qa,3,places_travel,When was hailstorm island first photographed given this text
+4254,open_qa,0,nature_science,What is Targetted Allele-Specific CRISPR/Cas9 Activation (TASCA)?
+4255,open_qa,0,nature_science,What is a lepton?
+4270,summarization,0,nature_science,what is petrified wood
+4281,closed_qa,6,history_society,What's Jiang's theoretical contribution?
+4304,brainstorming,0,nature_science,What are few different ways to describe the changing shape of the moon?
+4328,information_extraction,4,stories_media,Which book of Douglas Hofstadter won the Pulitzer Prize?
+4333,summarization,6,history_society,Quel a été l'impact de la révolution française ?
+4339,open_qa,0,nature_science,What is Acyl-CoA?
+4430,classification,1,technology,"Classify each of these car manufacturers as either Italian, German, American, Japanese, or other: Renault, Dodge, Opel, "
+4468,summarization,4,stories_media,What is The Sixth Extinction (The X-Files)?
+4565,summarization,2,health_food,"Based on this paragraph, give me a summary of what a kidney donor chain is."
+4595,creative_writing,5,sports_outdoors,Please write a socia media post about why Leo Messi is the best soccer player in the world.
+4596,classification,3,places_travel,"Classify each as a ocean, sea, or lake: Pacific, Mediterranean, Erie, Atlantic, Dead Sea, Black, Michigan"
+4598,general_qa,1,technology,How can technology be used to address challenges in the healthcare industry?
+4660,open_qa,4,stories_media,Who directed the most episodes of season five of Game of Thrones?
+4684,summarization,6,history_society,Please explain how a perpetrator's state of mind is relevant to guilt in committing a crime
+4739,brainstorming,9,music_arts,"Give me a list of the Mercury Prize winning albums, since 2000"
+4755,information_extraction,3,places_travel,What is the population density of Germany?
+4768,brainstorming,4,stories_media,Suggest some TV shows I should watch in a few different genres.
+4790,information_extraction,4,stories_media,List the movies of Ranjit Mallick.
+4842,information_extraction,0,nature_science,From the passage find parts of plant which can be used as scion. Display the results in comma separated format.
+4857,open_qa,1,technology,What are microservices?
+4888,summarization,2,health_food,What is Paris-Brest named after?
+4895,creative_writing,1,technology,"With the rise of large language models, ChatGPT has changed the way many people work, and AI is getting more and more po"
+4978,information_extraction,4,stories_media,Who was the first actor to play the Joker on the Batman television series?
+5036,closed_qa,9,music_arts,What sound was 'This Mortal Coil' known for?
+5089,open_qa,4,stories_media,Name some of the bravolebrities from Married to Medicine
+5105,general_qa,8,everyday_life,Tell me a joke
+5132,summarization,1,technology,Tell me about a Disk Manager
+5149,general_qa,6,history_society,Why did the Allies invade Normandy during world war 2?
+5208,information_extraction,3,places_travel,Who named the Landscape Arch?
+5265,information_extraction,4,stories_media,How many regions make up the ITV network?
+5348,classification,9,music_arts,"Identify which instrument is string or percussion: Pandeiro, Kudlung"
+5394,general_qa,6,history_society,What is the difference between NAFTA and NATO?
+5430,closed_qa,1,technology,What is First-stage boot loader
+5502,classification,0,nature_science,"Are these things you would find in a jungle? Categorize them as Yes, Maybe and No Way:
+Rivers
+Fence
+Trees
+Iphones
+Subway"
+5543,open_qa,5,sports_outdoors,Which player has scored the most world cup goals?
+5615,creative_writing,3,places_travel,Which cities should a perfect trip to Germany include.
+5666,open_qa,9,music_arts,"""The Day the Music Died"" refers to the tragic deaths of which artists?"
+5670,open_qa,6,history_society,Was there an industrial revolution during the middle ages?
+5687,summarization,9,music_arts,Who is Jon Bon Jovi
+5803,creative_writing,1,technology,Write one paragraph on the relevance of AI/ML in the field of Data Engineering
+5849,open_qa,1,technology,What is fleece?
+5880,open_qa,9,music_arts,Name some famous jazz songs?
+5914,general_qa,5,sports_outdoors,Why is ice hockey a good sport for women?
+5933,information_extraction,9,music_arts,Who was crucified in the crucifixion painting
+5948,open_qa,9,music_arts,Who was the very first American Idol winner?
+5993,general_qa,0,nature_science,How is the white color created?
+6010,general_qa,5,sports_outdoors,Why is Pickleball sport so popular
+6012,brainstorming,7,business_work,What is a good slogan for carpet?
+6025,closed_qa,2,health_food,"Based on the following paragraph on drinking water, is there a risk of drinking too much water during exercising?"
+6027,general_qa,7,business_work,"Pick a title for the following:
+The purpose of coaching is to form a partnership that enables you to draw more consisten"
+6044,brainstorming,3,places_travel,What outfit should I wear when traveling to San Francisco in May?
+6076,classification,2,health_food,"Classify below into more useful and less useful minerals in our food: iron, calcium, magnesium, chloride, selenium, pota"
+6092,brainstorming,0,nature_science,Give me some examples of igneous rocks.
+6096,closed_qa,9,music_arts,What kind of guitar pick did Stevie Ray Vaughan prefer?
+6164,open_qa,8,everyday_life,Why is my electrical outlet not working?
+6185,general_qa,8,everyday_life,Difference between EST and EDT?
+6206,classification,0,nature_science,Which is a species of fish? Puppy or Pupfish
+6207,summarization,6,history_society,When did Ivan Zhevakhov joined the military?
+6212,classification,7,business_work,"Separate the currencies from the other units of measure in the following list: United States Dollar, Canadian Dollar, Ch"
+6266,brainstorming,2,health_food,Give me three spicy authentic Chinese food dishes
+6320,open_qa,3,places_travel,"Cuzco, Machu Pichu is a famous place located in which country?"
+6322,classification,9,music_arts,"Identify which instrument is string or percussion: Hyoshigi, Ronroco"
+6329,closed_qa,6,history_society,"Given this paragraph about battles during India Independence day, what was the date when India win the Independence"
+6349,closed_qa,2,health_food,"What is a Japanese dish of prepared rice, usually with some sugar and salt, accompanied by a variety of ingredients, suc"
+6357,classification,1,technology,"Classify each of the following products as an Apple, Amazon, or Microsoft product: Airpods, Xbox, Alexa, Fire TV Stick, "
+6377,classification,3,places_travel,"Classify the cities based on whether they are located in India or Syria.
+Kolkāta, Mumbai, Aleppo, Delhi, Homs, Damascus"
+6506,open_qa,5,sports_outdoors,Name five NBA teams in the Eastern Conference.
+6526,brainstorming,3,places_travel,What are some countries I could go backpacking in if I want to see the Alps?
+6554,creative_writing,7,business_work,Put yourself in the place of a consumer who is considering the purchase of a new car. What sources of information would 
+6613,classification,5,sports_outdoors,"Classify the following cricketers as batsman, bowlers, or all rounders.
+David Warner, Trent Boult, Rohit Sharma, Virat K"
+6665,information_extraction,3,places_travel,Name the states of Northeast India.
+6725,open_qa,3,places_travel,What are the five smallest countries in Europe?
+6767,general_qa,8,everyday_life,"A farmer is on his way to market. He's going to sell a wolf, a goat, and a cabbage. On the way, he comes to a river cros"
+6778,closed_qa,4,stories_media,"Given the reference text about The Sun Also Rises, when was the book written and who wrote it?"
+6788,closed_qa,6,history_society,How are racial categories used historically?
+6822,general_qa,8,everyday_life,"I strongly believe in having a growth mindset and being a lifelong learner. However, I am a very busy person and I alway"
+6838,general_qa,5,sports_outdoors,Who created the game of basketball?
+6864,open_qa,2,health_food,What is Methode Traditionalle?
+6875,summarization,2,health_food,What is ProSavin
+6887,general_qa,5,sports_outdoors,Why are so many NFL coaches related to each other?
+6906,summarization,2,health_food,Give me a comma separated list of factors that can cause Insulin oscillation.
+6972,classification,3,places_travel,"Classify each of the following as a state or city: Portland, Austin, San Antonio, Alaska, Anchorage, Maine, Vermont"
+7048,general_qa,7,business_work,Should I pursue a degree after graduating high school?
+7091,brainstorming,2,health_food,Brainstorm reasons for and against taking a daily low-dose aspirin.
+7170,classification,3,places_travel,"Determine which continent the following cities are located: London, Singapore, New York, Sao Paulo, Buenos Aires, Melbou"
+7188,information_extraction,9,music_arts,How many strings does a cello have?
+7193,general_qa,6,history_society,Why do people believe in God
+7290,brainstorming,2,health_food,What are seven different sources of protein that vegetarians can eat?
+7300,closed_qa,9,music_arts,Who is the singer in Bon Iver?
+7333,information_extraction,5,sports_outdoors,Who won the Men's Madison at the 2018 UCI Track Cycling World Championships?
+7400,general_qa,0,nature_science,When is an object considered a planet?
+7409,summarization,9,music_arts,Who is Tina Turner
+7496,brainstorming,4,stories_media,Tell me 5 best Tom Hanks movies of all time.
+7512,open_qa,1,technology,What is Apache Kafka?
+7563,brainstorming,4,stories_media,Who is the best actor in the world
+7568,summarization,9,music_arts,Is the killers a band
+7579,classification,9,music_arts,"Identify which instrument is string or percussion: Yuka, Molo"
+7586,classification,8,everyday_life,"Classify each of the following as something you sit on or stand on: chair, couch, paddle board, skateboard, sofa, skis"
+7659,summarization,5,sports_outdoors,Using examples taken from the text give me a summary of why the Boston Marathon is well known.
+7673,open_qa,4,stories_media,Who wrote Mahabharata?
+7708,summarization,9,music_arts,Who is John Melo
+7709,classification,0,nature_science,"Tell me whether these are insects: ants, cicadas, flies, mosquitos, spiders, scorpions."
+7713,information_extraction,6,history_society,What parts are there in an academic dress? Extract them and place them in a numbered list.
+7735,creative_writing,2,health_food,Write a brief passage on how to make french toast
+7759,creative_writing,0,nature_science,What are the benefits of using genetically modified crops in agriculture?
+7774,creative_writing,2,health_food,how do you smoke a brisket?
+7785,creative_writing,7,business_work,"Describe how you would approach a corporate rebrand. Share your objectives, timeline, required budget and resources, and"
+7813,summarization,6,history_society,How did Ella Tromp begin her political career?
+7855,information_extraction,5,sports_outdoors,Extract the names of the winners of the Berlin Marathon from the reference text and provide them as a bulleted list.
+7859,general_qa,8,everyday_life,What are some of the pros and cons of owning a pet?
+7897,general_qa,9,music_arts,"What does the theme songs of Jaws, Star Wars, and Harry Potter have in common?"
+7921,creative_writing,3,places_travel,Write a paragraph on why visit and stay at Marysville in Victoria Australia.
+7948,brainstorming,8,everyday_life,Think up some locations for me to ask my partner out
+7968,summarization,7,business_work,What is money
+7999,creative_writing,4,stories_media,Write a short story about a revolution for decentralisation against an evil government set in a dystopian future where c
+8054,classification,0,nature_science,"Which one of these does not belong - Earth, Jupiter, Saturn, Pluto, Mercury"
+8068,brainstorming,8,everyday_life,Summarize the benefits of installing artificial turf in my backyard instead of real grass
+8090,closed_qa,6,history_society,"According to this paragraph, what was the most common type of castle in England following the Norman Conquest?"
+8095,creative_writing,7,business_work,Give me Personal finance advice
+8115,closed_qa,6,history_society,Who is the psychologist Jonathan Young
+8124,closed_qa,4,stories_media,"What happens during the section called ""Giggle Box""?"
+8133,brainstorming,2,health_food,How to bake the perfect flourless cheesecake?
+8144,closed_qa,6,history_society,Who was Lester Menke
+8189,creative_writing,2,health_food,"My back hurts when I ski a lot of moguls and bumps, why does this happen?"
+8270,brainstorming,4,stories_media,What are the top 5 comedic movies of all time
+8329,brainstorming,3,places_travel,Give me some ideas of places to visit on my next backpacking trip to South America.
+8386,information_extraction,3,places_travel,Extract from the text the name of the state where Beaver Creek is located
+8423,summarization,3,places_travel,What are some interesting facts about Nelson Mandel Boulevard described on this paragraph?
+8437,classification,0,nature_science,"Which of the following venomous snakes lay eggs: copperhead, water moccasin, rattlesnake, coral snake."
+8438,general_qa,9,music_arts,Who are the most famous artists?
+8444,creative_writing,0,nature_science,Write a paragraph of a blog post about owning a Cavoodle.
+8478,creative_writing,3,places_travel,Describe a plan for a road trip across Northern Italy
+8506,creative_writing,4,stories_media,Describe what it feels like as the last person standing on Earth.
+8522,information_extraction,6,history_society,"Reading this paragraph, tell me what language did the people of Indus Valley civilization speak?"
+8562,classification,9,music_arts,"Identify which instrument is string or percussion: Zabumba, Dan ghita"
+8580,closed_qa,4,stories_media,What is Oxygen Not Included?
+8581,information_extraction,9,music_arts,What are some famous shows that played at the Central Theatre in NYC?
+8599,information_extraction,7,business_work,"From the passage provided, extract the total amount of milk produced by Brazil in 2018"
+8608,open_qa,2,health_food,What is genomic medicine?
+8618,general_qa,7,business_work,How do I improve my leadership skills?
+8642,summarization,0,nature_science,What is an Aeolosaurini?
+8648,open_qa,6,history_society,What are some of the oldest civilizations starting?
+8652,summarization,6,history_society,Who is LBJ?
+8700,open_qa,2,health_food,How does meditation help?
+8794,general_qa,4,stories_media,Tell me about the plot to Harry Potter
+8806,closed_qa,5,sports_outdoors,What is the Spengler Cup
+8818,information_extraction,3,places_travel,Prepare the count of trains which serves Mount Prospect for each day in a week starting with Monday. Use the format “Day
+8828,closed_qa,6,history_society,"Given this paragraph about John C. Young, where did he go to college?"
+8857,creative_writing,6,history_society,"If you could change one thing about this world, what would it be and why?"
+8915,information_extraction,1,technology,Does EV help address the energy crisis?
+8938,brainstorming,3,places_travel,Give me 5 major attractions to see in Berlin
+8989,creative_writing,7,business_work,Write a polite rejection response to a LinkedIn recruiter
+8997,creative_writing,4,stories_media,"What's the significance of the lighthouse in Virginia Woolf's ""In The Lighthouse?"""
+9019,closed_qa,1,technology,Which company built the F-22 Raptor?
+9059,classification,9,music_arts,"Identify which instrument is string or percussion: Makuta, Tricordia"
+9100,summarization,1,technology,when was the Playstation 5 announced?
+9179,general_qa,3,places_travel,I want to plan a vacation in summer. How do I know where I can go?
+9186,information_extraction,3,places_travel,What are the most important figures in the passage provided about Singapore? Please provide in bullet points.
+9188,information_extraction,6,history_society,"Extract the Greek terms in the following paragraph, along with a short definition, in bullet points."
+9195,summarization,4,stories_media,Is the Ironbottom Sound a boardgame
+9224,closed_qa,7,business_work,What is Lean manufacturing
+9225,classification,9,music_arts,"Identify which instrument is string or percussion: Atumpan, Axatse, Baryton"
+9227,creative_writing,4,stories_media,Write a short story about a man who discovers a partially built treehouse.
+9242,summarization,9,music_arts,What is Foreverly?
+9263,brainstorming,5,sports_outdoors,What sports can I play in Summer?
+9304,brainstorming,8,everyday_life,Give me a list of ways to express your love to someone
+9311,classification,8,everyday_life,"If I was trying to build a garden shed, categorise each of the following as either ""useful"" or ""not useful"". A banana,  "
+9314,brainstorming,8,everyday_life,Give me some strategies to prevent procrastination
+9349,open_qa,7,business_work,What is Microfinance?
+9364,classification,5,sports_outdoors,"Tell me which one of these companies is a popular manufacturer of golf clubs: Ping, Cobra, Nike, Taylormade"
+9377,information_extraction,0,nature_science,Who is credited with the recognition of electromagnetism?
+9421,closed_qa,1,technology,Who really invented the telephone ?
+9422,general_qa,2,health_food,Is drinking too much water bad for you?
+9439,classification,0,nature_science,"Classify each of the following as amphibian or mammal. Dog, Toad, Salamander, Elephant, Frog, Bear"
+9444,information_extraction,6,history_society,How is the Maasai dance called the Adumu commonly called by other peoples?
+9551,brainstorming,7,business_work,What are some ways I can avoid financial failure?
+9554,creative_writing,8,everyday_life,Is it easier to travel with a baby or a toddler?
+9572,open_qa,3,places_travel,What is the capital of California?
+9596,open_qa,0,nature_science,What type of weather is typically associated with the desert?
+9760,creative_writing,4,stories_media,"Please write me a short children's bedtime story about a frog, a tree, and the moon. Make the moral of the story about a"
+9788,brainstorming,1,technology,Is society ready for flying cars ?
+9809,summarization,3,places_travel,Extract a list of all countries sharing a border with Germany from this passage.
+9841,classification,0,nature_science,"Identify which animal is domesticated or wild: Society finch, Nutria"
+9960,creative_writing,7,business_work,"Why Disney should be acquiring smaller movie studios like Pixar, Marvel, and Lucasfilm?"
+9976,brainstorming,2,health_food,Give me a list of food items that I should prepare for American Thanksgiving.
+10024,summarization,6,history_society,Give me a summary of the history of Thackeray Hall at the University of Pittsburgh based on this passage.
+10045,brainstorming,8,everyday_life,I am totally drunk and don’t know where I am. I can’t even find my way to any place. What do I do?
+10071,creative_writing,3,places_travel,Write a few paragraphs to describe the benefits of living in Arizona versus California
+10075,general_qa,3,places_travel,Why do people enjoy the beach?
+10091,information_extraction,1,technology,From the passage list down the various models of Tesla vehicle. List the results in comma separated format.
+10104,general_qa,9,music_arts,"Which of the following instruments are brass instruments? Flute, trumpet, clarinet, piano, French horn, guitar."
+10153,creative_writing,8,everyday_life,What is the most romantic season of the year and why?
+10160,summarization,1,technology,Give me a simple summary of idempotency
+10165,general_qa,0,nature_science,Do all fish lay eggs to produce offspring?
+10172,brainstorming,8,everyday_life,Give me a list of the five best ways to take care of your houseplants.
+10219,creative_writing,8,everyday_life,How to make a bald guy look great?
+10276,general_qa,8,everyday_life,Why do babies cry so much?
+10308,summarization,3,places_travel,Where is the Black Strait Lake
+10312,summarization,6,history_society,"Based on the reference text, please provide a short bulleted list of 4 popular Halloween activities."
+10410,creative_writing,1,technology,"Write a dplyr statement takes a dataframe, filters it by the tastiness string column for ""super awesome"" then creates a "
+10456,general_qa,2,health_food,What are the risks of social isolation?
+10457,information_extraction,0,nature_science,How would you define electricity based on the following paragraph?
+10492,brainstorming,5,sports_outdoors,Give me a bulleted list of major soccer leagues in Europe.
+10529,closed_qa,1,technology,"Given this paragraph, what are some examples of long short-term memory (LSTM) use cases?"
+10563,information_extraction,4,stories_media,"From the passage provided, display a list of reviews in the format: {Reviewer name} - {Review}"
+10641,classification,8,everyday_life,"Can you tell me which of the following are days and which are months? Monday, Tuesday, Wednesday, October, March, Februa"
+10740,creative_writing,8,everyday_life,how to handle loneliness in your life?
+10794,information_extraction,1,technology,What has the IETF ALTO working group accomplished?
+10808,summarization,1,technology,What text data set examples of Generative artificial intelligence
+10834,open_qa,7,business_work,What is a Fully paid share?
+10856,information_extraction,4,stories_media,Extract what units are strong against countering cavalry from the following text
+10872,creative_writing,2,health_food,How do I make good pour over coffee?
+10876,brainstorming,2,health_food,What are the healthiest cooking methods for preparing meals?
+10916,creative_writing,4,stories_media,Tell me an uplifting story about a recently departed dear friend and how she continues to inspire and guide me.  Use ref
+10919,summarization,9,music_arts,Provide a summary of Nora Forster's career based on this passage.
+10942,classification,3,places_travel,"Are these oceans or lakes: Superior, Michigan, Keuka, Ontario, Tahoe. and Yellowstone?"
+10987,brainstorming,8,everyday_life,Why might I want to stay at home on a Friday night?
+11017,general_qa,5,sports_outdoors,What are 3 things to consider when picking a mountain to ski at?
+11061,classification,1,technology,"Classify each of the following as supercar or hypercar:  Lamborghini Huracán, Ferrari 488GTB, Aston Martin Vantage, or B"
+11073,summarization,1,technology,What is relational database
+11101,classification,1,technology,"Identify which car manufacturer is German or American: Bitter, Cord"
+11127,summarization,2,health_food,What is Intermittent Fasting?
+11161,information_extraction,6,history_society,List the names of the people mentioned in the text provided.
+11162,closed_qa,3,places_travel,"Given a reference text about the Kaziranga Elephant Festival, tell me who organizes it."
+11184,open_qa,5,sports_outdoors,Where is Jordan Spieth from?
+11215,classification,0,nature_science,"Classify each of the following as a new world or old world crop: Potato, Corn, Tomato, Wheat, Oat, Cacao, Apple, Olive"
+11216,classification,9,music_arts,"Identify which instrument is string or percussion: Boomwhacker, Ukelin"
+11217,summarization,1,technology,What are some uses of Styrofoam?
+11234,open_qa,6,history_society,Who is the only US president elected from Pennsylvania?
+11237,creative_writing,6,history_society,What are the various methods to offer support for the improvement of the traditionally underprivileged sections of the s
+11284,creative_writing,4,stories_media,Write a story about a budding romance between two people. Talk about their going on an adventure together where they sne
+11296,closed_qa,6,history_society,"Given the paragraph about Independence Day, the Thirteen Colonies were not free from which Monarch?"
+11341,general_qa,3,places_travel,Why do people travel to Puerto Rico?
+11443,information_extraction,4,stories_media,"From the text, how long after the events of Return of the Jedi is the Mandalorian series set?  Convert years into months"
+11456,brainstorming,5,sports_outdoors,How many times Max Verstappen won the F1 Championship ?
+11487,creative_writing,4,stories_media,What is life like living underwater?
+11488,closed_qa,9,music_arts,"Given this paragraph about Freddie Mercury, where was his last performance with Queen."
+11505,general_qa,8,everyday_life,What are the best types of pets for a family with kids?
+11508,general_qa,0,nature_science,What is Perseverance doing on Mars?
+11547,brainstorming,2,health_food,What are four different recipes that you can make with Brussels Sprouts?
+11592,summarization,3,places_travel,"What is Forest Park (Springfield, MA)?"
+11642,summarization,7,business_work,Summarize The Innovator's Dilemma in a few sentence
+11650,information_extraction,6,history_society,What are all the dates that the Borneo visited Bencoolen written in the format Month Day Year?
+11657,general_qa,0,nature_science,Why are plants green?
+11661,general_qa,9,music_arts,What's the relationship between aperture and shutter speed?
+11708,creative_writing,8,everyday_life,"Write an friendly, convincing e-mail to my landlord asking whether I can get a dog."
+11718,general_qa,3,places_travel,What is the city of Portsmouth in England famous for?
+11761,open_qa,3,places_travel,Where is the best place to see the northern lights?
+11773,summarization,5,sports_outdoors,"Please give me a short bulleted list of the key events that happened in Kobe Bryant’s early life in time order, from ear"
+11797,information_extraction,2,health_food,Which fruits are most often candied fruit?
+11813,classification,0,nature_science,I have got assigned a task to classify the following items as flammable or inflammable. Could you please help me with th
+11848,closed_qa,0,nature_science,"Given this paragraph about magnesium, what is the melting point of magnesium in celsius?"
+11875,creative_writing,4,stories_media,Write a diary entry for a dog that only likes one person that lives in the house on a day that their favorite person was
+11894,general_qa,0,nature_science,"You come across a bear which is brown in color, has flat shoulders, and has large ears. What kind of bear is it?"
+11900,closed_qa,5,sports_outdoors,Who is the youngest driver to win a Formula 1 race?
+11921,information_extraction,2,health_food,Based on the following passage which dried fruit is sold the most?
+11949,general_qa,2,health_food,What is the best way to get more protein in my diet?
+11983,information_extraction,1,technology,Are there companies that build a plane end to end?
+11992,closed_qa,6,history_society,How long did it take for ironworking to be commonplace in West Africa following its introduction in Northern Africa?
+12062,general_qa,7,business_work,Should investors time the market?
+12069,brainstorming,8,everyday_life,Sea or Mountain
+12125,information_extraction,2,health_food,Extract the different kinds of leavening agents mentioned in this passage. Separate them with a comma.
+12165,summarization,3,places_travel,Without quoting directly from the text give me a summary of the half dome hike.
+12176,brainstorming,2,health_food,"Jill, a 60-year-old personal training client, wants to improve her hip flexibility. She
+repeatedly bounces up and down, "
+12178,closed_qa,5,sports_outdoors,Where is Ivan Trotski from?
+12205,open_qa,4,stories_media,Name some of the most well-known Valyrian steel swords.
+12227,brainstorming,5,sports_outdoors,What are some indoor sports I can play in winter?
+12257,closed_qa,6,history_society,Where was Ostad Elahi born and who was his father
+12374,creative_writing,8,everyday_life,What's the best way to learn something?
+12386,closed_qa,5,sports_outdoors,When was West Ham started and when did they get the name West Ham United?
+12415,open_qa,1,technology,What is Intel Xeon good for?
+12424,classification,7,business_work,"Tell me which of these stores sells furnitures: Safeway, dollar tree, HEB, IKEA, home depot, walmart"
+12465,creative_writing,3,places_travel,Tell me about life growing up in Singapore from a local's point of view. This local must have been born in Singapore at 
+12504,brainstorming,2,health_food,Think of a bunch of different ways you could lift weights at home without any dumbbells or gym equipment.
+12532,open_qa,4,stories_media,List five titles by George R.R. Martin.
+12553,open_qa,7,business_work,what was the impact on software companies from the revenue standard called 606?
+12556,open_qa,5,sports_outdoors,What is the University of Texas mascot?
+12573,summarization,6,history_society,What is the Richland home
+12623,creative_writing,4,stories_media,"Describe a tense scene of a dystopian, futuristic, ritualistic gathering of hooded and masked individuals discussing the"
+12630,summarization,5,sports_outdoors,Which university has Purdue Pete as their mascot?
+12661,brainstorming,8,everyday_life,What are some ways to cool off on a hot day?
+12734,closed_qa,7,business_work,"According to the text, given the initial cost of building the auditorium and the equivalent cost in 2021, what is the va"
+12766,general_qa,7,business_work,Why would a software engineer want to transition into product management?
+12774,closed_qa,3,places_travel,What direction (North-South-East-West) is Malanów from Zygmuntówek?
+12790,general_qa,2,health_food,Which is the best meal delivery service?
+12819,brainstorming,4,stories_media,Give me a list of Shakespeare's plays
+12839,open_qa,5,sports_outdoors,What is the University of Georgia's mascot?
+12844,information_extraction,3,places_travel,What is the official name of Singapore?
+12864,closed_qa,1,technology,Who is Satoshi Nakamoto?
+12878,creative_writing,4,stories_media,"Tell a story with the following: A guy that lives in San Jose California, he is a data scientist, he is in his mid 40's "
+12910,creative_writing,4,stories_media,Imagine you are the last person on Earth. Write a diary entry describing your thoughts and feelings.
+12938,brainstorming,1,technology,What are the biggest cloud providers
+12967,summarization,2,health_food,What are the benefits of a barre workout?
+12997,information_extraction,0,nature_science,Extract the the materials used to build beaver dams from the following passage and separate them with a comma.
+13045,open_qa,0,nature_science,What is one Earth day?
+13140,closed_qa,0,nature_science,"Given the reference text below, what problem do Marbled newts' face?"
+13171,classification,8,everyday_life,"What ages are considered newborn, toddler, child and teenager?"
+13289,classification,0,nature_science,Is banana a flower or a fruit?
+13291,open_qa,4,stories_media,What are the words of House Martell?
+13332,open_qa,5,sports_outdoors,What is 24 Hours of Lemons
+13362,creative_writing,7,business_work,Write me an email to a professor respectfully declining their request for my attendance at a conference
+13379,classification,0,nature_science,"Classify the following as either an insect or a dog breed: mosquito, Labrador retriever, German shepherd, ant, Siberian "
+13381,general_qa,1,technology,What should I do if my motherboard won't post?
+13383,information_extraction,6,history_society,What year was the first public school in America founded?
+13389,open_qa,5,sports_outdoors,What is the best soccer club in the premier league?
+13470,information_extraction,6,history_society,What's the Platinum Jubilee?
+13482,brainstorming,7,business_work,Give me a list of top unicorns from India.
+13606,creative_writing,3,places_travel,Is Lake Tahoe a beautiful place for vacation/cabin rentals to immerse into nature?
+13679,closed_qa,7,business_work,"Given a reference text that describes LVMH, what brands are part of LVMH?"
+13816,classification,8,everyday_life,"When teaching children about when to do things, which would you say are things people do in the morning, and which are n"
+13848,brainstorming,2,health_food,Give me five data themed cocktail drinks.
+13868,general_qa,8,everyday_life,I'm considering buying a bicycle. How do I know which one I should buy?
+13911,information_extraction,0,nature_science,What are the key terms in probability
+13981,classification,0,nature_science,"Tell me whether these animals are a canine or a feline: French Bulldog, Siamese Cat, Sharpei"
+13982,creative_writing,5,sports_outdoors,"Share why you support the underdog or the favorite in sports, and why it's the right thing to do."
+13993,classification,0,nature_science,"Identify which animal is domesticated or wild: Goldfish, Sika deer"
+14025,general_qa,8,everyday_life,What do I use a pressure washer for?
+14047,closed_qa,0,nature_science,"Given these paragraphs about Asperger Multiomics, what is the goal in combining all the ""omes""?"
+14052,closed_qa,4,stories_media,"In this reference text summarizing plot of the book The High King, how did the sword Dyrnwyn lose its power?"
+14121,creative_writing,8,everyday_life,Please write an email to the parent who complained about your child hitting their child.
+14136,open_qa,0,nature_science,What is the last step before a star collapses into a black hole?
+14137,classification,4,stories_media,Classify each of the Pokémon characters into different types.
+14163,classification,5,sports_outdoors,"Which of these were summer olympic sports in 2020: tennis, cheerleading, chess, boxing, basketball, ski jumping"
+14189,summarization,0,nature_science,Give me a list of the dog breeds
+14201,creative_writing,5,sports_outdoors,Explain the best way to swing a golf iron compared to a golf driver.
+14212,classification,1,technology,"classify each of these as either computer software or hardware: RAM, SSD, keyboard, mouse, trackpad, python, R, Scala, G"
+14217,classification,0,nature_science,"Identify the bird from the list: Hoot, Coot, Foot"
+14248,general_qa,0,nature_science,Why are dogs so good at smelling?
+14273,closed_qa,3,places_travel,Does Niksar have a castle?
+14338,general_qa,8,everyday_life,What is the best way to relax?
+14341,brainstorming,2,health_food,Give me three festive holiday meals I could serve to my family for Christmas
+14375,brainstorming,5,sports_outdoors,why would someone run the Texas Independence Relay?
+14441,general_qa,0,nature_science,How do we get rainbows?
+14460,summarization,0,nature_science,Summarize the mechanism for conventional superconductors.
+14470,open_qa,3,places_travel,"What is Houston, Texas, known for?"
+14497,information_extraction,6,history_society,Who is Carlos Andres Perez?
+14514,creative_writing,8,everyday_life,Come up with a marriage proposal in a holiday at Sicily.
+14571,summarization,2,health_food,"From this paragraph, what are indicators that Singapore's healthcare system performs well?"
+14592,information_extraction,4,stories_media,What is The Silmarillion?
+14604,summarization,6,history_society,what was the british empire
+14605,open_qa,6,history_society,Where do we go when we die?
+14617,classification,1,technology,"For following Apps in Apple Store, help me classify them into different categories, categories include Business, Develop"
+14686,information_extraction,5,sports_outdoors,From the passage list all the years and the sporting events mentioned
+14708,general_qa,2,health_food,Why are In-N-Out cheeseburgers so good?
+14715,brainstorming,6,history_society,List the British prime ministers since world war 2
+14745,creative_writing,4,stories_media,What's it like to live in the belly of a whale?
+14772,information_extraction,4,stories_media,What happened to Bosch's mom?
+14784,summarization,1,technology,What was the first Porsche 911 with AWD?
+14789,classification,1,technology,"Which companies continue to make computers today: Lenovo, Apple, Tandy, Compaq, Digital, HP, Dell, Gateway."
+14885,closed_qa,4,stories_media,"What is an ""outie"" in the context of this paragraph?"
+14900,information_extraction,6,history_society,From the passage identify the domains in which Athena is considered God. Display the results in a comma separated format
+14902,brainstorming,1,technology,What is the experience of Microsoft Office users moving to Google Docs?
+14923,closed_qa,0,nature_science,"Given the reference text about moths, what family does Bityla sericea belong to?"
+14942,general_qa,1,technology,Behind Delta tables is the data stored in Parquet file formats?
+14958,closed_qa,5,sports_outdoors,How many world championships has Max Verstappen won?
+14971,classification,1,technology,"Classify the below aircraft models based on the companies which created them.
+Next-Generation 737, A220, 737 MAX, A350, "
